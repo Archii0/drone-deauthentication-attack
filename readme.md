@@ -15,8 +15,9 @@ STEP 2 : Run commands
 ``` bash
 sudo apt update
 sudo apt install realtek-rtl88xxau-dkms
-STEP 3 (Optional): Check driver existance
 ```
+
+STEP 3 (Optional): Check driver existance
 
 Run commands below:
 
