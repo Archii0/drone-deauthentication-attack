@@ -12,11 +12,11 @@ STEP 1 : Open Terminal Emulator
 
 STEP 2 : Run commands
 
-''' bash
+``` bash
 sudo apt update
 sudo apt install realtek-rtl88xxau-dkms
 STEP 3 (Optional): Check driver existance
-'''
+```
 
 Run commands below:
 
